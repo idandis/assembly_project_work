@@ -1,1 +1,3 @@
 # assembly_project_work
+
+n summary, you developed a program in assembly language using PCSPIM, a MIPS processor simulator, for a speed detection system based on the MIPS R2000 processor (clock speed of 250 MHz). The system utilizes two sensors placed one meter apart that can detect the presence of a vehicle. The program is designed to detect when a vehicle is traveling faster than the 90 km/h speed limit on an rural road. When this occurs, after one second has passed, the program commands the shutter of a camera to take a picture with a 500 ms pulse, and then resumes monitoring for the next vehicle, and so on.
